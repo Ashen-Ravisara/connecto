@@ -1,0 +1,28 @@
+.main{
+    font-size: 48px !important;
+}
+
+.cardItem{
+    text-align: left;
+    outline: 2px solid #020202; 
+    padding: 30px; 
+    border-radius: 10px;
+    line-height: 1.5; 
+}
+
+.buttonCenter{
+    text-align: center;
+}
+
+li{
+    line-height: 2; 
+    list-style-type: none;
+}
+.pText{
+    font-size: 24px;
+}
+
+.h1Text{
+    font-size: 64px;
+    font-weight: 800;
+}
